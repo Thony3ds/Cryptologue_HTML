@@ -20,8 +20,12 @@ ul li {
 }
 *{
     color: #FFFFFF;
+    font-size: 24px; /* Taille de police en pixels */
 }
 .centered-image {
     display: block; /* Assure que l'image est un bloc pour pouvoir appliquer des marges automatiques */
     margin: 0 auto; /* Centre l'image horizontalement en appliquant des marges automatiques */
+}
+.h2 {
+    font-size: 32px;
 }
