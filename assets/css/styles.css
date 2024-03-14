@@ -1,0 +1,27 @@
+body {
+    text-align: center; /* Centrer le texte à l'intérieur du body */
+}
+
+.container {
+    width: 80%; /* Définir une largeur pour le conteneur */
+    margin: 0 auto; /* Centrer horizontalement le conteneur */
+    text-align: left; /* Aligner le texte à gauche à l'intérieur du conteneur */
+}
+
+ul {
+    text-align: center; /* Centrer le texte à l'intérieur de la liste */
+    list-style-type: none; /* Supprimer les puces de la liste */
+    padding: 0; /* Supprimer les marges intérieures de la liste */
+}
+
+ul li {
+    display: inline-block; /* Afficher les éléments de liste en ligne */
+    margin: 0 10px; /* Ajouter une marge à gauche et à droite pour espacement */
+}
+*{
+    color: #FFFFFF;
+}
+.centered-image {
+    display: block; /* Assure que l'image est un bloc pour pouvoir appliquer des marges automatiques */
+    margin: 0 auto; /* Centre l'image horizontalement en appliquant des marges automatiques */
+}
