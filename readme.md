@@ -1,1 +1,1 @@
-Pour lancer le site lancer le fichier main.html dans un navigateur web !
+Pour lancer le site lancer le fichier main.html avec un navigateur web !
