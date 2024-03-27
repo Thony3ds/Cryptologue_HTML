@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b0ec267-b994-471b-bb9f-eb3b62e21f05" name="Changes" comment="update of the creation of the website">
+    <list default="true" id="8b0ec267-b994-471b-bb9f-eb3b62e21f05" name="Changes" comment="Update: the Website and the app for android are here !&#10;   Status/Details:&#10;      - Website: done&#10;      - apk:     done&#10;      - readme:  done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +33,14 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/antho/PycharmProjects/Cryptologue_HTML&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/assets/img" />
@@ -44,7 +49,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -89,12 +94,48 @@
       <option name="project" value="LOCAL" />
       <updated>1710450109358</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update: the Website and the app for android are here !&#10;   Status/Details:&#10;      - Website: done&#10;      - apk:     done&#10;      - readme:  done">
+      <option name="closed" value="true" />
+      <created>1711396447870</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711396447870</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update: the Website and the app for android are here !&#10;   Status/Details:&#10;      - Website: done&#10;      - apk:     done&#10;      - readme:  done">
+      <option name="closed" value="true" />
+      <created>1711396769284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711396769284</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update: the Website and the app for android are here !&#10;   Status/Details:&#10;      - Website: done&#10;      - apk:     done&#10;      - readme:  done">
+      <option name="closed" value="true" />
+      <created>1711396924468</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711396924468</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="update of the creation of the website" />
-    <option name="LAST_COMMIT_MESSAGE" value="update of the creation of the website" />
+    <MESSAGE value="Update: the Website and the app for android are here !&#10;   Status/Details:&#10;      - Website: done&#10;      - apk:     done&#10;      - readme:  done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: the Website and the app for android are here !&#10;   Status/Details:&#10;      - Website: done&#10;      - apk:     done&#10;      - readme:  done" />
   </component>
 </project>

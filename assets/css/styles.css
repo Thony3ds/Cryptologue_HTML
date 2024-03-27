@@ -8,6 +8,11 @@ body {
     text-align: left; /* Aligner le texte à gauche à l'intérieur du conteneur */
 }
 
+img {
+    width: 100%; /* definie la largeur visible à 100% sur la page */
+    height: auto; /* applique le redimmensionelent par rapport a la taille de width */
+}
+
 ul {
     text-align: center; /* Centrer le texte à l'intérieur de la liste */
     list-style-type: none; /* Supprimer les puces de la liste */
